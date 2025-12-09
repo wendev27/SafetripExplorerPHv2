@@ -1,0 +1,35 @@
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Production
+pm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Environments
+.env
+.env*.local
+
+# Misc
+.DS_Store
+*.pem
+
+# Log files
+log
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Thumbnails
+.cache/
+.npm/
